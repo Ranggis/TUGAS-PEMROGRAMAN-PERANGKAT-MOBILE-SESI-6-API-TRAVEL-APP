@@ -50,13 +50,22 @@ Example `destinations` JSON:
     "id": "1",
     "name": "Labuan Bajo",
     "image": "https://raw.githubusercontent.com/Ranggis/Api-Image/main/Labuan%20Bajo.png",
-    "description": "Destinasi tropis dengan pemandangan laut yang menakjubkan."
+    "description": "Destinasi tropis dengan pemandangan laut yang menakjubkan.",
+    "screen": "DetailLabuanBajoScreen"
   },
   {
     "id": "2",
     "name": "Venezia",
     "image": "https://raw.githubusercontent.com/Ranggis/Api-Image/main/venezia.png",
-    "description": "Kota air romantis dengan gondola dan arsitektur klasik."
+    "description": "Kota air romantis dengan gondola dan arsitektur klasik.",
+    "screen": "DetailVeneziaScreen"
+  },
+  {
+    "id": "3",
+    "name": "Amsterdam",
+    "image": "https://raw.githubusercontent.com/Ranggis/Api-Image/main/amsterdam.png",
+    "description": "Kota kanal indah di Belanda dengan budaya yang unik dan kehidupan malam yang ramai.",
+    "screen": "DetailAmsterdamScreen"
   }
 ]
 ```
@@ -80,9 +89,9 @@ Example `destinations` JSON:
 
 ## 🖼️ Screenshots
 
-| Home                            | Detail                              | Wishlist                                | Payment Method                        |
+| Start Screen                            | Home Screen                              | Ticket Screen                               | Profil Screen                        |
 | ------------------------------- | ----------------------------------- | --------------------------------------- | ------------------------------------- |
-| ![Home](./screenshots/home.png) | ![Detail](./screenshots/detail.png) | ![Wishlist](./screenshots/wishlist.png) | ![Payment](./screenshots/payment.png) |
+| ![Start Screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6-API-TRAVEL-APP/blob/main/Hasil%20Implementasi/Screenshot_2025-10-25-22-01-52-74_c5521371e7af5ef65d6934ac1923943a.jpg) | ![Home Screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6-API-TRAVEL-APP/blob/main/Hasil%20Implementasi/Screenshot_2025-10-25-22-01-57-75_c5521371e7af5ef65d6934ac1923943a.jpg) | ![Ticket Screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6-API-TRAVEL-APP/blob/main/Hasil%20Implementasi/Screenshot_2025-10-25-22-02-08-02_c5521371e7af5ef65d6934ac1923943a.jpg) | ![Profil Screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6-API-TRAVEL-APP/blob/main/Hasil%20Implementasi/Screenshot_2025-10-25-22-02-10-42_c5521371e7af5ef65d6934ac1923943a.jpg) |
 
 ---
 
