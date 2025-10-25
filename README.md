@@ -74,6 +74,7 @@ Example `destinations` JSON:
 | **ProfileScreen**       | User profile & settings                    |
 | **PaymentMethodScreen** | Choose payment method for booking          |
 | **HelpSupportScreen**   | Contact & support page                     |
+| **Settings Screen**     | Settings Page                              |
 
 ---
 
@@ -120,8 +121,8 @@ Example `destinations` JSON:
 
 ## 👨‍💻 Author
 
-**Mochammad Ranggis Refaldi**
-*Developed with ❤️ using React Native and TypeScript*
+**Ranggis**
+*Developed with ☕ using React Native and TypeScript*
 
 📧 Email: [ranggis@example.com](mailto:ranggis@example.com)
 🌐 GitHub: [@Ranggis](https://github.com/Ranggis)
