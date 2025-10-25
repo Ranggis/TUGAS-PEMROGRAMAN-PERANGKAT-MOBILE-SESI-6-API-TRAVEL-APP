@@ -124,5 +124,5 @@ Example `destinations` JSON:
 **Ranggis**
 *Developed with ☕ using React Native and TypeScript*
 
-📧 Email: [ranggis@example.com](mailto:ranggis@example.com)
+📧 Email: [ranggis@example.com](mailto:ranggis@gmail.com)
 🌐 GitHub: [@Ranggis](https://github.com/Ranggis)
